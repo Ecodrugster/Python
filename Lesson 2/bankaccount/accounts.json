@@ -1,0 +1,62 @@
+[
+    {
+        "username": "1234",
+        "password": null,
+        "balance": 1000.0,
+        "type": "премиум",
+        "bonus_rate": 0.01,
+        "bonus": 10.0,
+        "interest_rate": null,
+        "interest": null
+    },
+    {
+        "username": "А",
+        "password": null,
+        "balance": 1000.0,
+        "type": "стандарт",
+        "bonus_rate": null,
+        "bonus": null,
+        "interest_rate": null,
+        "interest": null
+    },
+    {
+        "username": "ф",
+        "password": null,
+        "balance": 1000.0,
+        "type": "стандарт",
+        "bonus_rate": null,
+        "bonus": null,
+        "interest_rate": null,
+        "interest": null
+    },
+    {
+        "username": "Макс",
+        "password": "12345678",
+        "balance": 1000.0,
+        "type": "стандарт",
+        "bonus_rate": null,
+        "bonus": null,
+        "interest_rate": null,
+        "interest": null
+    },
+    {
+        "username": "Вова",
+        "password": "12345678",
+        "balance": 100000.0,
+        "type": "накопительный",
+        "bonus_rate": null,
+        "bonus": null,
+        "interest_rate": 0.09,
+        "interest": 15000.0
+    },
+    {
+        "username": "Бека",
+        "password": "87654321",
+        "balance": 10000.0,
+        "type": "накопительный",
+        "bonus_rate": null,
+        "bonus": null,
+        "interest_rate": 0.15,
+        "interest": 1500.0
+    }
+]

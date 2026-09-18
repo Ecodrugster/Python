@@ -1,0 +1,18 @@
+[
+    {
+        "username": "Max",
+        "password": "12345678",
+        "balance": 10000.0,
+        "type": "стандарт",
+        "tickets": []
+    },
+    {
+        "username": "Maxim",
+        "password": "12345678",
+        "balance": 11000.0,
+        "type": "vip",
+        "tickets": [],
+        "cashback_rate": 0.09000000000000001,
+        "bonus_points": 65.0
+    }
+]
