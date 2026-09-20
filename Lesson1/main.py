@@ -80,7 +80,6 @@
 
 
 # def register():
-#     """Регистрация нового пользователя."""
 #     print("\n--- Регистрация ---")
 #     username = input("Придумайте логин: ").strip()
     
@@ -95,7 +94,6 @@
 
 
 # def login():
-#     """Вход пользователя в систему."""
 #     print("\n--- Вход в систему ---")
 #     username = input("Введите логин: ").strip()
 #     password = input("Введите пароль: ").strip()
@@ -109,7 +107,6 @@
 
 
 # def add_task(username):
-#     """Добавление задачи текущему пользователю."""
 #     task = input("\nВведите новую задачу: ").strip()
 #     if task:
 #         todos[username].append(task)
@@ -119,7 +116,6 @@
 
 
 # def show_tasks(username):
-#     """Отображение всех задач текущего пользователя."""
 #     user_tasks = todos[username]
 #     print(f"\n--- Ваши задачи ({username}) ---")
 #     if not user_tasks:
@@ -130,7 +126,6 @@
 
 
 # def delete_task(username):
-#     """Удаление задачи по её номеру."""
 #     user_tasks = todos[username]
 #     show_tasks(username)
     
@@ -149,7 +144,6 @@
 
 
 # def user_menu(username):
-#     """Главное меню личного кабинета пользователя."""
 #     while True:
 #         print(f"\n=== МЕНЮ ПОЛЬЗОВАТЕЛЯ ({username}) ===")
 #         print("1 — Добавить задачу")
@@ -174,7 +168,6 @@
 
 
 # def main():
-#     """Запуск основного цикла программы."""
 #     while True:
 #         print("\n=== ГЛАВНОЕ МЕНЮ ===")
 #         print("1 — Зарегистрироваться")
