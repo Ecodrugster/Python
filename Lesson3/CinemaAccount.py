@@ -55,8 +55,9 @@ class CinemaAccount:
             self.balance += refund_amount
             print(f"Билет на '{refund_ticket['movie']}' возвращен. Возврат: {refund_amount} Баланс: {self.balance}")
             return True
-        print("Билет с таким номером не найден.")
-        return False
+        else:
+            print("Билет с таким номером не найден.")
+            return False
 
     def show_info(self):
         print(f"\n Аккаунт: {self.username} (Стандартный)")

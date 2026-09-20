@@ -9,10 +9,16 @@
     {
         "username": "Maxim",
         "password": "12345678",
-        "balance": 11000.0,
+        "balance": 10400.0,
         "type": "vip",
-        "tickets": [],
+        "tickets": [
+            {
+                "movie": "Дюна: Часть 2 (20:30, IMAX)",
+                "seat": "4, 7",
+                "price": 600
+            }
+        ],
         "cashback_rate": 0.09000000000000001,
-        "bonus_points": 65.0
+        "bonus_points": 133.0
     }
 ]

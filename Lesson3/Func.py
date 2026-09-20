@@ -2,7 +2,7 @@ import os
 import json
 from CinemaAccount import CinemaAccount, StudentCinemaAccount, VIPCinemaAccount
 
-FILE_NAME = "C:/Users/Singularity/Desktop/Python/Lesson3/accounts.json"
+FILE_NAME = "Lesson3/accounts.json"
 cinema_accounts = []
 
 
