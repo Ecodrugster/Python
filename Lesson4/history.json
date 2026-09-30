@@ -1,0 +1,51 @@
+[
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 900,
+        "time": "18:04:45.608018"
+    },
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 100,
+        "time": "18:04:45.608238"
+    },
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 400,
+        "time": "18:04:45.608442"
+    },
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 200,
+        "time": "18:04:45.608586"
+    },
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 900,
+        "time": "18:04:51.582648"
+    },
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 100,
+        "time": "18:04:51.582855"
+    },
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 400,
+        "time": "18:04:51.583017"
+    },
+    {
+        "method": "CreditCard",
+        "amount": 100,
+        "balance": 200,
+        "time": "18:04:51.583156"
+    },
+    {}
+]
